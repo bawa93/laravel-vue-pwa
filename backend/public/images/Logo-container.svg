@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81.481 17.533">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #58bfa7;
+        font-size: 9px;
+        font-family: Garamond-Bold, Garamond;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #8b8b8b;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Logo_container" data-name="Logo container" transform="translate(0 1)">
+    <text id="LakhBawa.Com" class="cls-1" transform="translate(19.481 10.435)"><tspan x="0" y="0">LakhBawa.</tspan><tspan class="cls-2" y="0">Com</tspan></text>
+    <g id="baseline-code-24px" transform="translate(0 -1)">
+      <path id="Path_2081" data-name="Path 2081" class="cls-3" d="M0,0H17.533V17.533H0Z"/>
+      <path id="Path_2082" data-name="Path 2082" d="M7.767,11.163,4.182,8.922l3.585-2.24L6.676,6,2,8.922l4.676,2.922Zm4.052,0L15.4,8.922l-3.585-2.24L12.91,6l4.676,2.922L12.91,11.844Z" transform="translate(-1.026 -0.156)"/>
+    </g>
+  </g>
+</svg>
